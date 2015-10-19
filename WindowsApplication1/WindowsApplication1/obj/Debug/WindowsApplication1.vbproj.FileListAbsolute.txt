@@ -1,0 +1,2 @@
+C:\Users\kenoga\AppData\Local\Temporary Projects\WindowsApplication1\bin\Debug\WindowsApplication1.exe.config
+C:\dev\svn\trunk\github\Repos\ogawarep\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe.config
