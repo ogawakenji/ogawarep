@@ -99,6 +99,7 @@
     <Compile Include="Utility\HtmlUtil.vb" />
     <Compile Include="Utility\ImageUtil.vb" />
     <Compile Include="Utility\NumUtil.vb" />
+    <Compile Include="Utility\StringUtil.vb" />
   </ItemGroup>
   <ItemGroup>
     <EmbeddedResource Include="My Project\Resources.resx">
