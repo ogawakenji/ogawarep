@@ -3,7 +3,7 @@
 参照URL <http://codezine.jp/article/detail/1157>  
 参照URL <http://blogs.msdn.com/b/nakama/archive/2008/09/18/part-1-wcf.aspx>  
 参照URL <http://www.atmarkit.co.jp/ait/articles/0604/26/news118.html>
-
+参照URL <http://devlights.hatenablog.com/archive/category/WCF>
 
 
 ## WCFとはなにか？
@@ -59,7 +59,6 @@ C  | Contract |  サービスの内容|
 ？？？ABC？  
 American Broadcasting Company？Acid Black Cherry？
 キーワードだけみても全然わからん
-
 
 
 
