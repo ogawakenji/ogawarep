@@ -7,6 +7,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WcfSample01Host", "WcfSampl
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WcfSample01Client", "WcfSample01Client\WcfSample01Client.csproj", "{CD354BA2-B6DD-4718-9833-33299DE72FA7}"
 EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "WcfSample01ClientVB", "WcfSample01ClientVB\WcfSample01ClientVB.vbproj", "{51EACA5B-3C9F-4775-89EC-3CD3F3502D72}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "WcfSample01HostVB", "WcfSample01HostVB\WcfSample01HostVB.vbproj", "{DE3EB54A-33A4-4F22-A1F7-E107E92991DF}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +25,14 @@ Global
 		{CD354BA2-B6DD-4718-9833-33299DE72FA7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CD354BA2-B6DD-4718-9833-33299DE72FA7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CD354BA2-B6DD-4718-9833-33299DE72FA7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{51EACA5B-3C9F-4775-89EC-3CD3F3502D72}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{51EACA5B-3C9F-4775-89EC-3CD3F3502D72}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{51EACA5B-3C9F-4775-89EC-3CD3F3502D72}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{51EACA5B-3C9F-4775-89EC-3CD3F3502D72}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DE3EB54A-33A4-4F22-A1F7-E107E92991DF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DE3EB54A-33A4-4F22-A1F7-E107E92991DF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DE3EB54A-33A4-4F22-A1F7-E107E92991DF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DE3EB54A-33A4-4F22-A1F7-E107E92991DF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -31,6 +31,7 @@
             this.label1 = new System.Windows.Forms.Label();
             this.lblResult = new System.Windows.Forms.TextBox();
             this.btnCallSerivceMethod = new System.Windows.Forms.Button();
+            this.Label2 = new System.Windows.Forms.Label();
             this.SuspendLayout();
             // 
             // label1
@@ -59,15 +60,25 @@
             this.btnCallSerivceMethod.UseVisualStyleBackColor = true;
             this.btnCallSerivceMethod.Click += new System.EventHandler(this.btnCallSerivceMethod_Click);
             // 
-            // Form1
+            // Label2
+            // 
+            this.Label2.AutoSize = true;
+            this.Label2.Location = new System.Drawing.Point(25, 169);
+            this.Label2.Name = "Label2";
+            this.Label2.Size = new System.Drawing.Size(40, 15);
+            this.Label2.TabIndex = 7;
+            this.Label2.Text = "C#版";
+            // 
+            // MainForm
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 15F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(282, 255);
+            this.Controls.Add(this.Label2);
             this.Controls.Add(this.btnCallSerivceMethod);
             this.Controls.Add(this.lblResult);
             this.Controls.Add(this.label1);
-            this.Name = "Form1";
+            this.Name = "MainForm";
             this.Text = "Form1";
             this.ResumeLayout(false);
             this.PerformLayout();
@@ -79,6 +90,7 @@
         private System.Windows.Forms.Label label1;
         private System.Windows.Forms.TextBox lblResult;
         private System.Windows.Forms.Button btnCallSerivceMethod;
+        private System.Windows.Forms.Label Label2;
     }
 }
 
