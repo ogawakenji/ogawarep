@@ -11,6 +11,5 @@ Interface IMyService
     Function SayHello(name As String) As String
 
 
-
 End Interface
 
