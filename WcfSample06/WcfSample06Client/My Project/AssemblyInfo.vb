@@ -8,17 +8,17 @@ Imports System.Runtime.InteropServices
 
 ' アセンブリ属性の値を確認します
 
-<Assembly: AssemblyTitle("WcfService04Host")>
+<Assembly: AssemblyTitle("WcfSample06Client")>
 <Assembly: AssemblyDescription("")>
 <Assembly: AssemblyCompany("Hewlett-Packard Company")>
-<Assembly: AssemblyProduct("WcfService04Host")>
+<Assembly: AssemblyProduct("WcfSample06Client")>
 <Assembly: AssemblyCopyright("Copyright © Hewlett-Packard Company 2015")>
 <Assembly: AssemblyTrademark("")>
 
 <Assembly: ComVisible(False)>
 
 'このプロジェクトが COM に公開される場合、次の GUID が typelib の ID になります
-<Assembly: Guid("4d594b85-b170-472c-b499-bb60115db7a5")>
+<Assembly: Guid("24c23c3f-0886-4c8d-adee-a4ee65700f40")>
 
 ' アセンブリのバージョン情報は次の 4 つの値で構成されています:
 '

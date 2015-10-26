@@ -7,9 +7,11 @@ Imports System.ServiceModel
 <ServiceContract([Namespace]:="http://Sample.WCF")>
 Interface IMyService
 
-    <OperationContract>
-    Function SayHello(name As String) As String
+    <OperationContract(IsOneWay:=True)>
+    Sub Regist()
 
+    <OperationContract>
+    Sub HeavyRegist()
 
 
 End Interface
