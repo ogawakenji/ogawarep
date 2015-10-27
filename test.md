@@ -31,3 +31,9 @@
 
 リンク
 <http://example.com>
+
+# IMEがWin8で変わった！
+https://karuakun.wordpress.com/2014/01/31/windows-8%E3%81%A7imemode-katakanakatakanahalf%E3%81%8C%E6%9C%89%E5%8A%B9%E3%81%AB%E3%81%AA%E3%82%89%E3%81%AA%E3%81%84%E3%80%82/
+
+http://d.hatena.ne.jp/Yamaki/20140204/1391488849
+
