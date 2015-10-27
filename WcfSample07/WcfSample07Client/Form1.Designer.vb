@@ -28,18 +28,18 @@ Partial Class Form1
         '
         'Button1
         '
-        Me.Button1.Location = New System.Drawing.Point(38, 12)
+        Me.Button1.Location = New System.Drawing.Point(64, 30)
         Me.Button1.Name = "Button1"
-        Me.Button1.Size = New System.Drawing.Size(176, 53)
+        Me.Button1.Size = New System.Drawing.Size(155, 42)
         Me.Button1.TabIndex = 0
         Me.Button1.Text = "Button1"
         Me.Button1.UseVisualStyleBackColor = True
         '
         'TextBox1
         '
-        Me.TextBox1.Location = New System.Drawing.Point(22, 101)
+        Me.TextBox1.Location = New System.Drawing.Point(54, 156)
         Me.TextBox1.Name = "TextBox1"
-        Me.TextBox1.Size = New System.Drawing.Size(192, 22)
+        Me.TextBox1.Size = New System.Drawing.Size(176, 22)
         Me.TextBox1.TabIndex = 1
         '
         'Form1

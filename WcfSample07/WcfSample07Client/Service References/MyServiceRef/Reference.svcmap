@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ReferenceGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ID="0a40999f-6167-4cf2-8a69-f63b101ad82b" xmlns="urn:schemas-microsoft-com:xml-wcfservicemap">
+  <ClientOptions>
+    <GenerateAsynchronousMethods>false</GenerateAsynchronousMethods>
+    <GenerateTaskBasedAsynchronousMethod>true</GenerateTaskBasedAsynchronousMethod>
+    <EnableDataBinding>true</EnableDataBinding>
+    <ExcludedTypes />
+    <ImportXmlTypes>false</ImportXmlTypes>
+    <GenerateInternalTypes>false</GenerateInternalTypes>
+    <GenerateMessageContracts>false</GenerateMessageContracts>
+    <NamespaceMappings />
+    <CollectionMappings />
+    <GenerateSerializableTypes>true</GenerateSerializableTypes>
+    <Serializer>Auto</Serializer>
+    <UseSerializerForFaults>true</UseSerializerForFaults>
+    <ReferenceAllAssemblies>true</ReferenceAllAssemblies>
+    <ReferencedAssemblies />
+    <ReferencedDataContractTypes />
+    <ServiceContractMappings />
+  </ClientOptions>
+  <MetadataSources>
+    <MetadataSource Address="http://localhost:8087/WCFSample007/MyService" Protocol="http" SourceId="1" />
+  </MetadataSources>
+  <Metadata>
+    <MetadataFile FileName="MyService.wsdl" MetadataType="Wsdl" ID="2d578176-0d54-4ce1-a17b-49d000c3c861" SourceId="1" SourceUrl="http://localhost:8087/WCFSample007/MyService?wsdl" />
+    <MetadataFile FileName="MyService1.wsdl" MetadataType="Wsdl" ID="937881eb-abe7-4c96-8678-f83ac4f78b9b" SourceId="1" SourceUrl="http://localhost:8087/WCFSample007/MyService?wsdl=wsdl0" />
+    <MetadataFile FileName="MyService.disco" MetadataType="Disco" ID="42b76a45-3f86-401e-9b96-7711efc14cd7" SourceId="1" SourceUrl="http://localhost:8087/WCFSample007/MyService?disco" />
+    <MetadataFile FileName="MyService.xsd" MetadataType="Schema" ID="8ffc1adb-3429-4ed6-a28f-d14388111665" SourceId="1" SourceUrl="http://localhost:8087/WCFSample007/MyService?xsd=xsd1" />
+    <MetadataFile FileName="MyService1.xsd" MetadataType="Schema" ID="04c9e1c3-7c4a-4fa7-abc2-84fe9c7af27a" SourceId="1" SourceUrl="http://localhost:8087/WCFSample007/MyService?xsd=xsd0" />
+  </Metadata>
+  <Extensions>
+    <ExtensionFile FileName="configuration91.svcinfo" Name="configuration91.svcinfo" />
+    <ExtensionFile FileName="configuration.svcinfo" Name="configuration.svcinfo" />
+  </Extensions>
+</ReferenceGroup>
