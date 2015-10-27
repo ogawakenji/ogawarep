@@ -36,3 +36,9 @@
 https://karuakun.wordpress.com/2014/01/31/windows-8%E3%81%A7imemode-katakanakatakanahalf%E3%81%8C%E6%9C%89%E5%8A%B9%E3%81%AB%E3%81%AA%E3%82%89%E3%81%AA%E3%81%84%E3%80%82/  
 http://d.hatena.ne.jp/Yamaki/20140204/1391488849  
 http://d.hatena.ne.jp/tkng/20100510/1273455264  
+http://www.wankuma.com/seminar/20080712tokyo22/6.files/frame.htm  
+http://nyaruru.hatenablog.com/entry/20070309/p1  
+http://ja.nishimotz.com/text_services_framework  
+http://hp.vector.co.jp/authors/VA050396/tech_01.html  
+
+
