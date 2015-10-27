@@ -14,6 +14,7 @@ Public Class MyService
         Dim context As OperationContext = OperationContext.Current
         Dim callback As IMyCallback = context.GetCallbackChannel(Of IMyCallback)()
 
+
         Threading.Thread.Sleep(TimeSpan.FromSeconds(5))
 
         Console.WriteLine("callback SendData();")
