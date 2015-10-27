@@ -44,12 +44,12 @@ http://hp.vector.co.jp/authors/VA050396/tech_01.html
 ## SGMLでHTMLをパース  
 パース後に子要素を検索してもヒットしない場合はXNameの指定が誤っている可能性
 
-`Dim query = From q In xdoc.Descendants("td")`
-`            Select q`
-
-`Dim ns As XNamespace = "http://www.w3.org/1999/xhtml"`
-`Dim query = From q In xdoc.Descendants(ns + "td")`
-`            Select q`
+`Dim query = From q In xdoc.Descendants("td")`  
+`            Select q`  
+  
+`Dim ns As XNamespace = "http://www.w3.org/1999/xhtml"`  
+`Dim query = From q In xdoc.Descendants(ns + "td")`  
+`            Select q`  
 
 
 
