@@ -1,4 +1,4 @@
-## 拡張メソッド  
+  ## 拡張メソッド  
 http://qiita.com/shinoyu/items/7dec4bbd0282ae6755e6
 
 http://d.hatena.ne.jp/nacookan/20080611/1213205283
@@ -6,3 +6,6 @@ http://d.hatena.ne.jp/nacookan/20080611/1213205283
 インスタンスに対してあたかもメソッドがもとからあるかのように追加できる
 
 
+https://social.msdn.microsoft.com/Forums/vstudio/ja-JP/30cb5f05-6f6c-4833-bc78-afde5217275d?forum=csharpgeneralja
+
+https://msdn.microsoft.com/ja-jp/library/system.windows.forms.messagebox(v=vs.90).aspx
