@@ -14,7 +14,7 @@
         If dVal > 0 Then
             Return Convert.ToDecimal(System.Math.Floor((dVal * dCoef) + 0.5) / dCoef)
         Else
-            Return Convert.ToDecimal(System.Math.Floor((dVal * dCoef) - 0.5) / dCoef)
+            Return Convert.ToDecimal(System.Math.Ceiling((dVal * dCoef) - 0.5) / dCoef)
         End If
 
     End Function
@@ -31,7 +31,7 @@
         If dVal > 0 Then
             Return Convert.ToDecimal(System.Math.Floor((dVal * dCoef)) / dCoef)
         Else
-            Return Convert.ToDecimal(System.Math.Floor((dVal * dCoef)) / dCoef)
+            Return Convert.ToDecimal(System.Math.Ceiling((dVal * dCoef)) / dCoef)
         End If
     End Function
 
@@ -45,7 +45,7 @@
         Dim dCoef As Decimal = Convert.ToDecimal((System.Math.Pow(10, iDigit)))
 
         If dVal > 0 Then
-            Return Convert.ToDecimal(System.Math.Ceiling((dVal * dCoef)) / dCoef)
+            Return Convert.ToDecimal(System.Math.Floor((dVal * dCoef)) / dCoef)
         Else
             Return Convert.ToDecimal(System.Math.Ceiling((dVal * dCoef)) / dCoef)
         End If
